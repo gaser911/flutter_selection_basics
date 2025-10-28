@@ -32,8 +32,3 @@ covering the core tap and selection features in Flutter.
 
 ---
 
-## 🚀 How to Run
-
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/gaser911/flutter_selection_basics.git
